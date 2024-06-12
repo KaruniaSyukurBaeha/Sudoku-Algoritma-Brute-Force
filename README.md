@@ -1,10 +1,10 @@
  # Sudoku Solver
 
-This project implements a brute force algorithm to solve Sudoku puzzles.
+Implementasi Algoritma Brute Force dalam Pemecahan Puzzle: Studi Kasus pada Sudoku
 
-Nama : Karunia Syukur Baeha
-NIM  : 10023478
-Judul: Implementasi Algoritma Brute Force dalam Pemecahan Puzzle: Studi Kasus pada Sudoku
+## Creators
+
+- Karunia Syukur Baeha (10023478)
 
 ## Requirements
 
