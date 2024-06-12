@@ -2,6 +2,10 @@
 
 This project implements a brute force algorithm to solve Sudoku puzzles.
 
+Nama : Karunia Syukur Baeha
+NIM  : 10023478
+Judul: Implementasi Algoritma Brute Force dalam Pemecahan Puzzle: Studi Kasus pada Sudoku
+
 ## Requirements
 
 - Python 3.x
@@ -19,16 +23,9 @@ This project implements a brute force algorithm to solve Sudoku puzzles.
       venv\Scripts\activate
       ```
 
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 To solve a Sudoku puzzle, run the following command:
 ```sh
 run_scripts.bat
-
-
 
